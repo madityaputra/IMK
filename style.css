@@ -1,0 +1,38 @@
+/*
+body{
+    background-color:#cbf1f5;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    color: black;
+}
+
+
+h2{
+    color: #40514e; 
+}
+*/
+h4{
+    color: #40514e;
+}
+
+hr{
+    border-color:#a6e3e9;
+}
+
+.body1{
+    background-color:#a5dee5;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;     
+}
+
+.body2{
+    background-color:#e0f9b5;   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color: black;
+}
+
+#utama{
+    font-style: oblique;
+    color: #40514e;
+}
