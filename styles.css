@@ -1,0 +1,83 @@
+body{
+    background: #112d4e;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	color: #fff;
+    margin: 0;
+}
+
+.gelap{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-left: 20px;
+    text-align: center;    
+    font-weight: bold;
+    background-color: #3f72af;
+}
+
+.terang{
+    margin-top: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #dbe2ef;
+    color: #112d4e;
+    text-align: center;
+}
+
+nav{    
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    display: block;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+
+li{
+    margin: 20px;
+    list-style-type: none;
+}
+
+h2{ 
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+p{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+table{    
+    padding: 20px;
+    text-align: left;
+}
+
+.matkul{
+    margin-top: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #dbe2ef;
+    color: #112d4e;
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+}
+
+.bawah{
+    text-align: center;
+    font-size: 10px;
+    font-weight: 2;
+}
